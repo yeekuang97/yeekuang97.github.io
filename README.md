@@ -20,5 +20,9 @@ html file
 <p><mark>Doddy</mark></p>
 <p>He is a <em>Doddy</em></p>
 <p>Doddy is a <strong>bull</strong>dog</p>
+<p>My best friend's name is  <abbr title="Abhishek">Abhy</abbr>.</p> 
+<p>This text will go left to right.</p> 
+<p><bdo dir="rtl">This text will go right to left.</bdo></p> 
+<p>The following word is a <dfn>special</dfn> term.</p>
 </body>
 </html>
