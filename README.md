@@ -39,10 +39,10 @@ html file
 <meta name="keywords" content="HTML, Meta Tags, Metadata" /> 
 <meta name="description" content="Learning about Meta Tags." /> 
 <meta name="revised" content="Tutorialspoint, 3/7/2014" /> 
-<meta http-equiv="refresh" content="5"/>
+<meta http-equiv="refresh" content="5; url=https://shopee.com.my/product/160104899/5705046599"/>
 </head> 
 <body> 
-<p>Hello HTML5!</p> 
+<p>Hello HTML5!</p>
 </body> 
 </html> 
 
