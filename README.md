@@ -24,5 +24,26 @@ html file
 <p>This text will go left to right.</p> 
 <p><bdo dir="rtl">This text will go right to left.</bdo></p> 
 <p>The following word is a <dfn>special</dfn> term.</p>
+<p>The following description of XHTML is taken from the W3C Web site:</p
+<blockquote>XHTML 1.0 is the W3C's first Recommendation for XHTML, following on from earlier work on HTML 4.01, HTML 4.0, HTML 3.2 and HTML 2.0.</blockquote> 
+<p>Amit is in Spain, <q>I think I am wrong</q>.</p> 
+<p>This HTML tutorial is derived from <cite>W3 Standard for HTML</cite>.</p> 
+<p>Regular text. <kbd>This is inside kbd element</kbd> Regular text.</p> 
+<p><code>document.write("<var>user-name</var>")</code></p> 
+<p>Result produced by the program is <samp>Hello World!</samp></p> 
+<address>388A, Road No 22, Jubilee Hills -  Hyderabad</address> 
 </body>
 </html>
+<html> 
+<head> 
+<title>Meta Tags Example</title> 
+<meta name="keywords" content="HTML, Meta Tags, Metadata" /> 
+<meta name="description" content="Learning about Meta Tags." /> 
+<meta name="revised" content="Tutorialspoint, 3/7/2014" /> 
+<meta http-equiv="refresh" content="5"/>
+</head> 
+<body> 
+<p>Hello HTML5!</p> 
+</body> 
+</html> 
+
