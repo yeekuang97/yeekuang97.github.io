@@ -95,6 +95,15 @@ html file
    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Google Fonts</a></li>
    </ul>
  </aside>
+ <nav>
+ <ul>
+    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Serif</a></li>
+    <li>>a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Sans-serif</a></li>
+    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Script</a></li>
+    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Display</a></li>
+    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Dingbats</a></li>
+</ul>
+<nav>
  
    
 
