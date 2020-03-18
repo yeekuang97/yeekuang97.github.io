@@ -43,11 +43,11 @@ html file
 </head> 
 <body> 
 <p>Hello HTML5!</p>
-<ol>
+<ol start="3">
    <li> Doddy </li>
    <li> o seh </li>
    <li> la bu la duo </li>
-<ul start="c"> 
+<ul> 
    <li> bei se </li>
    <li> be kai dui </li>
    </ul>
