@@ -83,9 +83,19 @@ html file
    <h1> Ah mei is dolly </h1>
    <section>
       <h2> History of dolly </h2>
-      <p>_</p>
-   </section>
- </article>
+      <p>_</p></h1>
+</article>
+ <h1> Web Typography </h1>
+ <p> Back in 1997, there were competing font formats and tools for making them...</p>
+ <p> We now have a number of methods for using beautiful fonts on web pages...</p>
+ <aside>
+   <h2>Web Font Resources</h2>
+   <ul>
+   <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Typekit</a></li>
+   <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Google Fonts</a></li>
+   </ul>
+ </aside>
+ 
    
 
 </body> 
