@@ -65,6 +65,9 @@ html file
  2 large garlic cloves 
  2/3 c. kalamata olives 
  1 t. capers </pre>
+<figure>   
+   <img src="pikachu.png" alt="chart showing fonts on mobile devices"> 
+</figure> 
 
 </body> 
 </html> 
