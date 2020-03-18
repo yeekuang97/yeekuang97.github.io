@@ -55,6 +55,18 @@ html file
   Cute sheng    tomboy
              is        love alicia
 </pre>
+<title><p>Tapenade (Olive Spread)</p></title>
+<p> This is a really simple dish to prepare and it’s always a big hit at parties. My father recommends:</p>
+<pre><p> “Make this the night before so that the flavors have time to blend. Just bring it up to room temperature 
+      before you serve it. In the winter, try serving it warm.”</p></pre>
+<p> Ingredients </p>
+<ol> 
+ <lo> 8oz. jar sundried tomatoes </lo>
+ <lo> large garlic cloves </lo></ol>
+<ol start "2/3 c.">
+ <lo> kalamata olives </ol> 
+<ol> 
+ <lo> t. capers </lo> </ol>   
 </body> 
 </html> 
 
