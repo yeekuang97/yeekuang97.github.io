@@ -67,9 +67,14 @@ html file
  1 t. capers </pre>
 <figure>   
    <img src="pikachu.png" alt="chart showing fonts on mobile devices">
-<pre>
-   <code> body {   background-color: #000;   color: red; } </code>
-</pre>   
+</figure>
+<figure>
+   <pre><code> 
+    body {   
+        background-color: #000;   
+        color: red; 
+    } 
+    </code></pre>   
 <figcaption>         
    Sample CSS rule.   
 </figcaption> 
