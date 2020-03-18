@@ -66,7 +66,7 @@ html file
  2/3 c. kalamata olives 
  1 t. capers </pre>
 <figure>   
-   <img src="pikachu.png" alt="chart showing fonts on mobile devices">
+   <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F16325617382513296%2F&psig=AOvVaw3WXNXwbVn1CIDvIkw0JW5P&ust=1584596659494000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjCnduoo-gCFQAAAAAdAAAAABAD"> Gaogia </a>
 </figure>
 <figure>
    <pre><code> 
