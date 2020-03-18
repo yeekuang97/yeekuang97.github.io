@@ -125,6 +125,19 @@ html file
    </header>
    <p>...article content starts here...</p>
 </article>
+<article>
+   <header>
+      <h1>More about WOFF </h1>
+      <p>by Jennifer Robbins, <time dateline="11-11-2011" pubdate>November 11,2011</time></p>
+      <nav>
+      <ul>
+         <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Previous </a></li>
+         <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png></a></li>
+     </ul>
+     </nav>
+  </footer>
+</article>
+            
   
  
    
