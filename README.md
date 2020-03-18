@@ -51,6 +51,10 @@ html file
    <li> bei se </li>
    <li> be kai dui </li>
    </ul>
+<pre>
+  Cute sheng    tomboy
+             is        love alicia
+</pre>
 </body> 
 </html> 
 
