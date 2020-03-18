@@ -98,12 +98,27 @@ html file
  <nav>
  <ul>
     <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Serif</a></li>
-    <li>>a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Sans-serif</a></li>
+    <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Sans-serif</a></li>
     <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Script</a></li>
     <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Display</a></li>
     <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Dingbats</a></li>
 </ul>
 <nav>
+<header>
+   <img src="/images/logo.png">
+   <hgroup>
+      <h1>Nuts about Web Fonts</h1>
+      <h2>News from the Web Typography Front </h2>
+   </hgroup>
+   <nav>
+      <ul>
+        <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Home</a></li>
+        <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Blog</a></li>
+        <li><a href="https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png">Shop</a></li>
+     </ul>
+  </nav>
+</header>
+  
  
    
 
