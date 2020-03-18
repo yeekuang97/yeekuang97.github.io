@@ -60,13 +60,12 @@ html file
 <pre><p> “Make this the night before so that the flavors have time to blend. Just bring it up to room temperature 
       before you serve it. In the winter, try serving it warm.”</p></pre>
 <p> Ingredients </p>
-<ol> 
- <li> 8oz. jar sundried tomatoes </li>
- <li> large garlic cloves </li></ol>
-<ol start "2/3 c.">
-   <li> kalamata olives </li> </ol> 
-<ol> 
- <li> t. capers </li> </ol>   
+<pre>
+ 1 8oz. jar sundried tomatoes 
+ 2 large garlic cloves 
+ 2/3 c. kalamata olives 
+ 1 t. capers </pre>
+
 </body> 
 </html> 
 
