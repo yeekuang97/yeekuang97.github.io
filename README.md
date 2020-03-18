@@ -79,6 +79,14 @@ html file
    Sample CSS rule.   
 </figcaption> 
 </figure> 
+<article>
+   <h1> Ah mei is dolly </h1>
+   <section>
+      <h2> History of dolly </h2>
+      <p>_</p>
+   </section>
+ </article>
+   
 
 </body> 
 </html> 
