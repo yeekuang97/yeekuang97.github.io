@@ -57,8 +57,8 @@ html file
 </pre>
 <p>Tapenade (Olive Spread)</p>
 <p> This is a really simple dish to prepare and it’s always a big hit at parties. My father recommends:</p>
-<pre><p> “Make this the night before so that the flavors have time to blend. Just bring it up to room temperature </br> 
-      before you serve it. In the winter, try serving it warm.”</p></pre>
+<p> “Make this the night before so that the flavors have time to blend. Just bring it up to room temperature </br> 
+    before you serve it. In the winter, try serving it warm.”</p></pre>
 <p> Ingredients </p>
 <pre>
  1 8oz. jar sundried tomatoes 
