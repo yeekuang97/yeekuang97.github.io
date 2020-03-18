@@ -137,6 +137,9 @@ html file
      </nav>
   </footer>
 </article>
+<address>
+ Contributed by <a href="../authors/robbins/">Jennifer Robbins</a>, <a href="http://www.oreilly.com/">O'Reilly Media</a> 
+</address>   
             
   
  
