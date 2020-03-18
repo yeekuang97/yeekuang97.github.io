@@ -47,9 +47,10 @@ html file
    <li> Doddy </li>
    <li> o seh </li>
    <li> la bu la duo </li>
-   <ul> bei se </ul>
-   <ul> be kai dui </ul>
-   </ol>
+<ul start="c"> 
+   <li> bei se </li>
+   <li> be kai dui </li>
+   </ul>
 </body> 
 </html> 
 
