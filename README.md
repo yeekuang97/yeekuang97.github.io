@@ -66,7 +66,13 @@ html file
  2/3 c. kalamata olives 
  1 t. capers </pre>
 <figure>   
-   <img src="pikachu.png" alt="chart showing fonts on mobile devices"> 
+   <img src="pikachu.png" alt="chart showing fonts on mobile devices">
+<pre>
+   <code> body {   background-color: #000;   color: red; } </code>
+</pre>   
+<figcaption>         
+   Sample CSS rule.   
+</figcaption> 
 </figure> 
 
 </body> 
