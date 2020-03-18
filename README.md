@@ -118,6 +118,13 @@ html file
      </ul>
   </nav>
 </header>
+<article>
+   <header>
+      <h1> More about WOFF</h1>
+      <p> by Jennifer Robbins, <time datetime="11-11-2011" pubdate>November 11, 2011</time></p>
+   </header>
+   <p>...article content starts here...</p>
+</article>
   
  
    
