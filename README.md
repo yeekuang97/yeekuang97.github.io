@@ -143,6 +143,7 @@ html file
 <p>Scala Sans was designed by <s>Eric Gill</s> Martin Majoor.</p>
 <p><a href="cute.com">Download <b>Jenville Handwriting Font</b> </a></p>
 <p> Amei said: <q>Dolly is a puppy</q></p>
+<abbr title="Points">pts.</abbr> <abbr title="American Type Founders">ATF</abbr> 
 
             
   
