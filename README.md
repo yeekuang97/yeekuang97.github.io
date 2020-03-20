@@ -144,6 +144,8 @@ html file
 <p><a href="cute.com">Download <b>Jenville Handwriting Font</b> </a></p>
 <p> Amei said: <q>Dolly is a puppy</q></p>
 <abbr title="Points">pts.</abbr> <abbr title="American Type Founders">ATF</abbr> 
+<p>Passages of this article were inspired by <cite>The Complete Manual of Typography</cite> by James Felici.</p>
+
 
             
   
