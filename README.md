@@ -158,6 +158,7 @@ Chief Executive Officer: <del title="retired">Peter Pan</del><ins>Pippi Longstoc
             <p> This is a pikachu caught by sheng </p>
             <p> Sheng use <em>masterball</em> caught pikachu </p>
 </div>
+<ul>  <li>John: <span class="tel">999.8282</span></li>  <li>Paul: <span class="tel">888.4889</span></li>  <li>George: <span class="tel">888.1628</span></li>  <li>Ringo: <span class="tel">999.3220</span></li> </ul> 
 
 
 
