@@ -164,6 +164,18 @@ Chief Executive Officer: <del title="retired">Peter Pan</del><ins>Pippi Longstoc
             <img src="felici-cover.gif" alt="CMT cover">  
             <p><cite>The Complete Manual of Typography</cite>, James Felici</p>  
             <p class="description">A combination of type history and examples of good and bad type.</p> </div> 
+<table>
+    <tr>
+        <th rowspan="3">Serving Size</th>
+        <td>Small (8oz.)</td>
+    </tr>
+    <tr>
+        <td>Medium (16oz.)</td>
+    </tr>
+    <tr>
+        <td>Large (24oz.)</td>
+    </tr>
+</table>
 
 
 
