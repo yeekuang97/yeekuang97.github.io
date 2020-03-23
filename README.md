@@ -206,7 +206,7 @@ Chief Executive Officer: <del title="retired">Peter Pan</del><ins>Pippi Longstoc
     </tr>
  </table>
  <table>
- <tr>   <th scope="row">Mars</th>   <td>.95</td>   <td>.62</td>   <td>0</td> </tr>
+ <tr>   <th scope="col">Mars</th>   <td>.95</td>   <td>.62</td>   <td>0</td> </tr>
  </table>
             
             
