@@ -176,6 +176,21 @@ Chief Executive Officer: <del title="retired">Peter Pan</del><ins>Pippi Longstoc
         <td>Large (24oz.)</td>
     </tr>
 </table>
+<table>
+    <caption>Sheng会玩的英雄</caption>
+  <tr> 
+       <th>会玩</th>
+       <th>不会玩</th>
+  </tr>
+  <tr> 
+       <td>赵云</td>
+       <td>公顺离</td>
+  </tr>
+  <tr>
+       <td>典韦</td>
+       <td>梦琦</td>
+  </tr>
+</table> 
 
 
 
