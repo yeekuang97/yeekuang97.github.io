@@ -214,7 +214,7 @@ Chief Executive Officer: <del title="retired">Peter Pan</del><ins>Pippi Longstoc
             <td headers="diameter">.38</td> 
             …many other cells…
  </table>
-            
+ <p><input type="image"><input type="reset" value="Start over"></p>           
             
 
 
